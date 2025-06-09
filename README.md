@@ -44,3 +44,9 @@ This repository contains my solution for the “Web Server Log Analysis” take�
 - **Date Formatting**: Converting timezone‑aware datetimes to a consistent `dd-MMM-yyyy` string required attention to Python’s `%z` specifier.
 
 ---
+
+![31a4e93426e3b6a644052c84488ea3d0ae16fe0d5146fea39064ae7f_tmpn_5p6tze](https://github.com/user-attachments/assets/3548f60e-d292-4809-9dea-a540acf9ae1b)
+
+
+
+
